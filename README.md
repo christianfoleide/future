@@ -1,0 +1,1 @@
+#### An implementation of ``java.util.concurrent.Future`` in Go
